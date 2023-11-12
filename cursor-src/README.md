@@ -14,15 +14,9 @@ Make sure your local and global Phaser CLI versions match, or are at least compa
 
 ## Usage
 
-To use RPG Webapp, follow these steps:
+`npm run build && npm start`
 
-1. Run npm start to start the application.
-
-If you encounter the error phaser-cli: command not found, it means that the Phaser CLI is not installed globally on your machine. Phaser CLI is a command line interface for Phaser which is used to start the application.
-
-After installing Phaser CLI globally, you should be able to start the application without any issues.
-
-Contributing to RPG Webapp
+## Contributing to RPG Webapp
 
 To contribute to RPG Webapp, follow these steps:
 
@@ -31,11 +25,9 @@ To contribute to RPG Webapp, follow these steps:
 3. Make your changes and commit them.
 4. Push to the original branch.
 5. Create the pull request.
-   Contact
 
-If you want to contact me, you can reach me at <your_email@address.com>.
-License
+Come bother us on Discord if we aren't getting to your PR or issue.
 
-This project uses the following license: ISC.
+## Contact
 
-Please replace <Windows/Linux/Mac>, <your_email@address.com>, and <link> with appropriate values.
+Visit https://ladderly.io and you can reach out on the Ladderly Discord.

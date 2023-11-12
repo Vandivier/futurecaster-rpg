@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "lite-server",
-    "build": "tsc",
+    "build": "tsc && copyfiles -u 1 src/index.html dist",
     "test": "jest"
   },
   "keywords": [
@@ -25,6 +25,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.15",
     "@types/node": "^14.14.31",
+    "copyfiles": "^2.4.1",
     "jest": "^26.6.3",
     "lite-server": "^2.6.1",
     "ts-jest": "^26.5.0",
