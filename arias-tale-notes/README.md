@@ -20,11 +20,13 @@ A role playing universe, game system, and concrete collection of episodes and ca
 5. [Procgen Arcana](https://watabou.github.io/news.html)
 6. [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
 7. [Random quest generator](https://donjon.bin.sh/fantasy/adventure/)
-8. [shop generator](https://donjon.bin.sh/d20/magic/shop.html).
-9. Future tools to check
-   1. character.ai
-   2. AI Dungeon
-   3. https://www.fables.gg/features
+8. [Shop generator](https://donjon.bin.sh/d20/magic/shop.html).
+9. [Google Image Generator](https://www.google.com/search/images/)
+10. [Leonardo.ai Image Generator](https://leonardo.ai/)
+11. Future tools to check
+    1. character.ai
+    2. AI Dungeon
+    3. https://www.fables.gg/features
 
 ## Related ChatGPT Threads
 
@@ -46,7 +48,7 @@ The threads are listed in chronological order, with the first element of the lis
 
 ## Uncodified game system rules and game world data
 
-TODO
+1. Quests receive progression bonuses so you don't have to keep doing mundane quests. Documented in the Iron Flame Book Summary thread.
 
 ## Misc Other Notes, Open Threads, and TODO
 
