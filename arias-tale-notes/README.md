@@ -16,9 +16,12 @@ A role playing universe, game system, and concrete collection of episodes and ca
 1. This repository
 2. [Ladderly](https://ladderly.io/) Discord #gaming channel
 3. [Aria's Tale YouTube Playlist](https://www.youtube.com/watch?v=_nEaajP78WQ)
-4. AI Tool: [arias-tale-roleplay-assistant
-   ](https://chat.openai.com/g/g-V5UqBQLKh-arias-tale-roleplay-assistant)
-5. Future tools to check
+4. AI Tool: [arias-tale-roleplay-assistant](https://chat.openai.com/g/g-V5UqBQLKh-arias-tale-roleplay-assistant)
+5. [Procgen Arcana](https://watabou.github.io/news.html)
+6. [One Page Dungeon](https://watabou.itch.io/one-page-dungeon)
+7. [Random quest generator](https://donjon.bin.sh/fantasy/adventure/)
+8. [shop generator](https://donjon.bin.sh/d20/magic/shop.html).
+9. Future tools to check
    1. character.ai
    2. AI Dungeon
    3. https://www.fables.gg/features
@@ -69,3 +72,4 @@ TODO
       15. python as a "language" and possibly other accidental code references leading to bugs, wormholes, loopholes, migraines, and plot twists
    4. Dad jokes as game mechanics (eg "spring water" improving jump ability)
    5. Everything is a mimick, everything is a cake, the cake is a mimick
+   6. Aria's Tale and Arya's Tail pun
