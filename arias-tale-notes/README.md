@@ -45,10 +45,12 @@ The threads are listed in chronological order, with the first element of the lis
 5. [Iron Flame Book Summary](https://chat.openai.com/c/4f6ee9e8-0e99-42af-a5a6-dcd4b1b9fc41)
    i. Init Dragonica region here
 6. [Hex Grid RPG Battle Map](https://chat.openai.com/c/e20991cb-de81-42a7-9466-58354c0ed22b)
+   7 [Town, Character, and Quest Setup](https://chat.openai.com/share/9bb91cf2-1037-482b-aed6-13964456ac69)
 
 ## Uncodified game system rules and game world data
 
 1. Quests receive progression bonuses so you don't have to keep doing mundane quests. Documented in the Iron Flame Book Summary thread.
+2. Significant lore and quest food in the `Town, Character, and Quest Setup` thread
 
 ## Misc Other Notes, Open Threads, and TODO
 
@@ -75,3 +77,8 @@ The threads are listed in chronological order, with the first element of the lis
    4. Dad jokes as game mechanics (eg "spring water" improving jump ability)
    5. Everything is a mimick, everything is a cake, the cake is a mimick
    6. Aria's Tale and Arya's Tail pun
+3. Custom GPT Dev Notes:
+   1. If I use the battle assistant, it can't generate characters, towns, quests, or narrative very well. Seems like we may need a collection of GPTs. Maybe we can use Claude bc enormous context window
+   2. [A superuser says](https://community.openai.com/t/gpts-knowledge-capacity-limits/492955/14): Size limitations: In Create mode it will tell you that 25mb is the ideal cap to avoid errors, but you can upload up to 50mb. Character limitations: Based on my experimentation you can upload a single doc (.txt) that is less then 1.5mm characters.
+   3. Another person says "You’re going to have better luck achieving what you’re trying to accomplish with Assistants, not GPT’s"
+   4. In the longer run, a custom app could call the various specialty GPTs when appropriate, or other code or non-gpt tools for deterministic or seeded activity. I could also have a vector store of threads or something for pinecone-like memory if it becomes to much for context. I will compare that vs using Claude as a canon store until we have a funded app (funded by the book series??)
